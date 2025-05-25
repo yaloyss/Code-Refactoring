@@ -6,7 +6,7 @@ import module1.task2.*;
 
 import java.util.List;
 
-public class Demo {
+public class Demo1 {
 
     public static void main(String[] args)
     {
